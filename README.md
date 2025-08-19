@@ -31,6 +31,8 @@ Provisioned resources:
 - Pulled data from GitHub via HTTP connector → stored in **Bronze container**.  
 - Used parameters for adaptability (file name, path, etc.).  
 
+created the dynamic pipeline successfully-
+![Adf](![Architecture](https://github.com/user-attachments/assets/7c51260a-236e-43ae-a965-91508684014c))
 
 
 ---
