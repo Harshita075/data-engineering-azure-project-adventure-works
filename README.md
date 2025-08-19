@@ -48,7 +48,8 @@ created the dynamic pipeline successfully-
 - ![databricks](https://github.com/Harshita075/data-engineering-azure-project-adventure-works/blob/main/dataset/IMG_4561.jpg)
 
 
-
+  did the transformations using PYSPARK-
+  ![transform](https://github.com/Harshita075/data-engineering-azure-project-adventure-works/blob/main/dataset/Screenshot%20(81).png)
 ---
 
 ### **Step 4: Data Warehousing with Synapse Analytics** 📊
