@@ -19,7 +19,7 @@ Provisioned resources:
 
 > Configured with IAM roles for secure integration.  
 
-![Setup]()
+![Setup](archieve/resource-groups.png)
 
 ---
 
