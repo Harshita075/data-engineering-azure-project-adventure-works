@@ -22,7 +22,7 @@ Provisioned resources:
 > Configured with IAM roles for secure integration.
 > these were the resources used
 
-![Setup](https://github.com/Harshita075/data-engineering-azure-project-adventure-works/blob/main/archive/resource-groups.png)
+![Setup](https://github.com/Harshita075/data-engineering-azure-project-adventure-works/blob/main/dataset/resource-groups.png)
 
 ---
 
