@@ -32,7 +32,7 @@ Provisioned resources:
 - Used parameters for adaptability (file name, path, etc.).  
 
 created the dynamic pipeline successfully-
-![Adf](![Architecture](https://github.com/user-attachments/assets/7c51260a-236e-43ae-a965-91508684014c))
+![Adf](https://github.com/Harshita075/data-engineering-azure-project-adventure-works/blob/main/dataset/dynamic_pipeline.png)
 
 
 ---
