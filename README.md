@@ -3,7 +3,7 @@
 This project demonstrates how i built a **complete data engineering pipeline** on Microsoft Azure. It processes, transforms, and delivers data for **Business Intelligence (BI)** using **Azure Data Factory, Databricks, Synapse Analytics, and Power BI**.  
 
 The data source is the **AdventureWorks dataset**, ingested directly from GitHub and transformed into a star-schema model for reporting. 
-so this is whole archietecture of my project
+so this is the whole archietecture of my project-
 
 ![Architecture](https://github.com/user-attachments/assets/7c51260a-236e-43ae-a965-91508684014c)
 
@@ -19,7 +19,8 @@ Provisioned resources:
 - **Azure Databricks:** Performs large-scale transformations.  
 - **Azure Synapse Analytics:** Data warehouse for BI.  
 
-> Configured with IAM roles for secure integration.  
+> Configured with IAM roles for secure integration.
+> these were the resources used
 
 ![Setup](https://github.com/Harshita075/data-engineering-azure-project-adventure-works/blob/main/archive/resource-groups.png)
 
@@ -30,7 +31,7 @@ Provisioned resources:
 - Pulled data from GitHub via HTTP connector → stored in **Bronze container**.  
 - Used parameters for adaptability (file name, path, etc.).  
 
-![ADF]()
+
 
 ---
 
@@ -43,7 +44,7 @@ Provisioned resources:
   - Grouped & aggregated data for analysis.  
 - Stored results in **Parquet format** (efficient for queries).  
 
-![Databricks]()
+
 
 ---
 
@@ -53,7 +54,7 @@ Provisioned resources:
 - Designed **Database + Schema** → created external tables.  
 - Modeled a **Star Schema** (Fact & Dimension tables).  
 
-![Synapse](https://github.com/user-attachments/assets/ce425f1d-dcd9-4b99-85d1-acbbc9e50d82)
+
 
 ---
 
@@ -61,7 +62,7 @@ Provisioned resources:
 - Connected **Power BI** to Synapse.  
 - Built dashboards to visualize KPIs (Sales, Revenue, Products, Regions).  
 
-![PowerBI](https://github.com/user-attachments/assets/a195d455-5889-4042-b144-bfe89f4260ee)
+
 
 ---
 
@@ -91,10 +92,6 @@ Provisioned resources:
 
 ---
 
-## 🙌 Acknowledgment
-Inspired by [Ansh Lamba](https://github.com/anshlambagit).  
-Check his [YouTube walkthrough](https://www.youtube.com/watch?v=0GTZ-12hYtU&t=15907s&ab_channel=AnshLamba) for more details.  
+ ---
+✨ This project was designed and implemented by **Harshita Ahuja** as part of my journey in mastering Data Engineering with Azure.  
 
----
-
-✅ This project is a **complete Azure Data Engineering solution**, perfect for showcasing in interviews & portfolios.
