@@ -4,7 +4,8 @@ This project demonstrates how to build a **complete data engineering pipeline** 
 
 The data source is the **AdventureWorks dataset**, ingested directly from GitHub and transformed into a star-schema model for reporting.  
 
-![Architecture]()
+![Architecture](https://github.com/user-attachments/assets/7c51260a-236e-43ae-a965-91508684014c)
+
 
 ---
 
