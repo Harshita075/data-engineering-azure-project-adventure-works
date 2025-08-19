@@ -1,8 +1,9 @@
 # 🚀 End-to-End Data Engineering Solution with Azure
 
-This project demonstrates how to build a **complete data engineering pipeline** on Microsoft Azure. It processes, transforms, and delivers data for **Business Intelligence (BI)** using **Azure Data Factory, Databricks, Synapse Analytics, and Power BI**.  
+This project demonstrates how i built a **complete data engineering pipeline** on Microsoft Azure. It processes, transforms, and delivers data for **Business Intelligence (BI)** using **Azure Data Factory, Databricks, Synapse Analytics, and Power BI**.  
 
-The data source is the **AdventureWorks dataset**, ingested directly from GitHub and transformed into a star-schema model for reporting.  
+The data source is the **AdventureWorks dataset**, ingested directly from GitHub and transformed into a star-schema model for reporting. 
+so this is whole archietecture of my project
 
 ![Architecture](https://github.com/user-attachments/assets/7c51260a-236e-43ae-a965-91508684014c)
 
