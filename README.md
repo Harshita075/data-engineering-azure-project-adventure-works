@@ -44,7 +44,8 @@ created the dynamic pipeline successfully-
   - Normalized **date formats**.  
   - Removed **invalid/incomplete records**.  
   - Grouped & aggregated data for analysis.  
-- Stored results in **Parquet format** (efficient for queries).  
+- Stored results in **Parquet format** (efficient for queries).
+- ![databricks](https://github.com/Harshita075/data-engineering-azure-project-adventure-works/blob/main/dataset/IMG_4561.jpg)
 
 
 
